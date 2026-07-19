@@ -24,7 +24,7 @@ local-first software · desktop apps · making search feel instant
 ltspace@github:~$ fetch --profile
 repos      7 public · 3 original
 stars      ★ 1
-commits    178 in 2026
+commits    176 in 2026
 followers  6
 langs      HTML     █████░░░░░  54.6%
            Rust     ███░░░░░░░  34.4%
