@@ -10,7 +10,7 @@
 
 ```console
 ltspace@github:~$ whoami
-Martha Kivelson — building local-first tools for Windows
+Martha Kivelson — I build search: from a single disk to the open web
 
 ltspace@github:~$ cat projects.toml
 [dowse]
@@ -18,8 +18,17 @@ desc  = "Windows-native full-disk search: file names, doc contents, text in scre
 stack = ["rust", "tantivy", "tauri"]
 repo  = "github.com/ltspace/dowse"
 
+ltspace@github:~$ cat ~/work/projects.toml
+cat: ~/work/projects.toml: Permission denied
+
+ltspace@github:~$ sudo !!
+[██████████]
+desc  = "real-time search at scale — but the users are AI agents"
+stack = ["go", "clickhouse", "kafka", "kubernetes", "mcp"]
+repo  = "[redacted]"
+
 ltspace@github:~$ grep -i interests ~/.profile
-local-first software · desktop apps · making search feel instant
+retrieval & ranking · distributed systems · local-first desktop tools
 
 ltspace@github:~$ fetch --profile
 repos      7 public · 3 original
