@@ -1,4 +1,4 @@
-name: generate snake
+name: generate profile assets
 
 on:
   schedule:
@@ -16,6 +16,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        run: python3 .github/scripts/gen_stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:

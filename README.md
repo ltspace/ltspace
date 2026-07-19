@@ -26,8 +26,10 @@ ltspace@github:~$ █
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ltspace&show_icons=true&theme=graywhite&hide_border=true&rank_icon=github" alt="GitHub stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltspace&layout=compact&theme=graywhite&hide_border=true" alt="Top languages" height="160" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ltspace/ltspace/output/stats-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ltspace/ltspace/output/stats.svg" alt="GitHub stats" />
+</picture>
 
 <br /><br />
 
