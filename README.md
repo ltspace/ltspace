@@ -21,21 +21,26 @@ repo  = "github.com/ltspace/dowse"
 ltspace@github:~$ grep -i interests ~/.profile
 local-first software · desktop apps · making search feel instant
 
+ltspace@github:~$ fetch --profile
+repos      7 public · 3 original
+stars      ★ 1
+commits    178 in 2026
+followers  6
+langs      HTML     █████░░░░░  54.6%
+           Rust     ███░░░░░░░  34.4%
+           Svelte   ░░░░░░░░░░   4.3%
+           CSS      ░░░░░░░░░░   3.1%
+
 ltspace@github:~$ █
 ```
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ltspace/ltspace/output/stats-dark.svg" />
-  <img src="https://raw.githubusercontent.com/ltspace/ltspace/output/stats.svg" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pulse-dark.svg" />
+  <img src="assets/pulse.svg" alt="A year of commits, drawn as pulsar waves" width="440" />
 </picture>
 
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ltspace/ltspace/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/ltspace/ltspace/output/github-snake.svg" alt="Contribution snake" />
-</picture>
+<sub>a year of commits · after <em>Unknown Pleasures</em></sub>
 
 </div>
