@@ -14,19 +14,19 @@ ltspace@github:~$ █
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/ltspace/dowse">
-        <img src="https://raw.githubusercontent.com/ltspace/dowse/main/crates/dowse-app/src-tauri/icons/128x128%402x.png" width="120" alt="dowse logo"><br>
+        <img src="assets/projects/dowse.png" width="120" height="120" alt="dowse logo"><br>
         <strong>dowse</strong>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/ltspace/codex-mobile-bridge">
-        <img src="https://raw.githubusercontent.com/ltspace/codex-mobile-bridge/main/public/icon-512.png" width="120" alt="Codex Mobile Bridge logo"><br>
+        <img src="assets/projects/codex-mobile-bridge.png" width="120" height="120" alt="Codex Mobile Bridge logo"><br>
         <strong>codex-mobile-bridge</strong>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/ltspace/Tideline">
-        <img src="https://raw.githubusercontent.com/ltspace/Tideline/main/frontend/public/icon-512.png" width="120" alt="Tideline logo"><br>
+        <img src="assets/projects/tideline.png" width="120" height="120" alt="Tideline logo"><br>
         <strong>tideline</strong>
       </a>
     </td>
