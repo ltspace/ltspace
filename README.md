@@ -32,10 +32,3 @@ ltspace@github:~$ █
     </td>
   </tr>
 </table>
-
-## Selected contributions
-
-| Project | Merged pull requests |
-| :-- | :-- |
-| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | [#136382](https://github.com/openclaw/openclaw/pull/136382) · Fix Feishu fallback for oversized tables |
-| [`Yeachan-Heo/oh-my-claudecode`](https://github.com/Yeachan-Heo/oh-my-claudecode) | [#3599](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/3599) · Install hooks when settings contain none |
